@@ -1,0 +1,38 @@
+_repo: Preferred-Risk_51814
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kossin, Sandy
+    aliases:
+    - Kossin, Sanford
+    - Kossin
+    gutenberg_agent_id: '34255'
+    url: http://www.gutenberg.org/2009/agents/34255
+creator:
+  author:
+    agent_name: McCann, Edson
+    gutenberg_agent_id: '46565'
+    url: http://www.gutenberg.org/2009/agents/46565
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/25413
+    - http://www.gutenberg.org/ebooks/author/8240
+description: By Frederik Pohl & Lester del Rey writing as Edson McCann.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cryonics -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Nuclear warfare -- Fiction'
+- !lcsh 'Insurance companies -- Fiction'
+- GITenberg
+title: Preferred Risk
+url: http://www.gutenberg.org/ebooks/51814
